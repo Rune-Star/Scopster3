@@ -1,0 +1,12 @@
+{
+  "dataTable": [
+    {
+      "ID": "Bullet",
+      "path": "Assets/Resources/Prefabs/Bullet.prefab"
+    },
+    {
+      "ID": "Block",
+      "path": "Assets/Resources/Prefabs/F2.prefab"
+    }
+  ]
+}
